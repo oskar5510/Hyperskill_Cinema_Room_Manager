@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: src/cinema/Cinema.java
+    visible: true
+    learner_created: false
+  - name: test/CinemaTests.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/133/stages/711/implement#comment
+status: Failed
+feedback:
+  message: |-
+    Wrong answer in test #1
+
+    After entering a row number and a seat number in that row you should print the seating arrangement like in example!
+    Your output should contain &#39;Cinema:&#39;
+
+    Please find below the output of your program during this failed test.
+    Note that the &#39;&gt;&#39; character indicates the beginning of the input line.
+
+    ---
+
+    Enter the number of rows:
+    &gt; 7
+    Enter the number of seats in each row:
+    &gt; 8
+
+    1. Show the seats
+    2. Buy a ticket
+    0. Exit
+  time: "Wed, 14 May 2025 15:26:37 UTC"
+record: 3

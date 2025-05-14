@@ -1,0 +1,24 @@
+# IntelliJ
+.idea/
+*.iml
+
+# build output
+/out/
+target/
+build/
+
+# OS / narzędzia
+.DS_Store
+*.log
+
+# Java
+*.class
+
+# gradle
+.gradle/
+# Project exclude paths
+/.gradle/
+/build/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
